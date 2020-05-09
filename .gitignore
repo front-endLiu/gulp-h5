@@ -1,0 +1,8 @@
+node_modules/
+
+# local env files
+
+# package-lock.json
+
+dist/
+dest/
